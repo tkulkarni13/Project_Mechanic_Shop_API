@@ -1,0 +1,3 @@
+# Project Mechanic Shop API
+
+This is an example API that a mechanic shop could use to handle customer, mechanic, and service ticket information. For mechanics and customers, there are routes to add new user, get all users, get user by id, update user, and delete user. For service tickets, there are routes to add a new one, view all service tickets, add a mechanic to a service ticket, or remove a mechanic from a service ticket. This app was build using Flask, and MySQL was used as the database to store information.
